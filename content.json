@@ -1,0 +1,4516 @@
+{
+  "checkedAt": "2026-10-13",
+  "coverage": "Coverage is dated per issue. Each record lists all 54 African countries, 50 U.S. states and DC, plus named source areas, and distinguishes actual checks from jurisdictions not individually checked. A regional or federal check does not establish a country- or state-level no-update finding.",
+  "editions": [
+    {
+      "id": "2026-10-13",
+      "date": "2026-10-13",
+      "title": "October 13: West Africa operation, with source limits",
+      "type": "Complete source-reviewed brief",
+      "summary": "DOJ reports arrests and trafficking-victim identification in Ghana and Nigeria. U.S. visa and immigration-court indexes showed no new qualifying notice in this limited review; no new policy alert was verified.",
+      "items": [
+        {
+          "id": "doj-west-africa-disruption-2026-10-13",
+          "topic": "African Diaspora Brief",
+          "place": "U.S. federal · Ghana and Nigeria operations",
+          "title": "DOJ reports scam disruption and trafficking rescues in West Africa",
+          "text": "On October 13, the U.S. Department of Justice reported results of a coordinated operation during the week beginning October 6. DOJ says authorities arrested 19 people in Ghana and nine in Nigeria; its release says 117 trafficking victims were identified in Ghana and are pending repatriation to Nigeria. Participating companies reported removing more than 3.7 million accounts, pages and groups targeting people in the U.S., UK and elsewhere. These are DOJ-reported operational figures, not independent findings about any person. The release announces enforcement results, not a change to immigration rights or filing rules.",
+          "status": "Agency-reported enforcement results · no new policy notice",
+          "newsDate": "2026-10-13",
+          "affectedPeople": "Trafficking victims identified in Ghana, people targeted by fraud in the U.S. and elsewhere, and families seeking reliable information about relatives.",
+          "diasporaRelevance": "U.S.-based Ghanaian and Nigerian families with relatives affected by the Ghana operation can use the linked official account to distinguish identified victims and pending repatriation from completed reunification. U.S.-based readers targeted by online fraud can check the described scam patterns without treating nationality as evidence of wrongdoing.",
+          "effectiveDate": "Operation during week beginning October 6; DOJ announcement October 13, 2026; no policy effective date.",
+          "uncertainty": "DOJ and participating companies supplied the figures. Ghanaian and Nigerian underlying case records, victim identities, individual repatriation outcomes and later revisions were not independently checked. No claim is made about all online accounts or members of any diaspora community.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "sources": [
+            {
+              "id": "doj-west-africa-disruption-2026-10-13",
+              "title": "U.S. Department of Justice · October 13 Joint Disruption Week release",
+              "url": "https://www.justice.gov/opa/pr/department-justice-announces-results-law-enforcement-and-private-industry-joint-disruption",
+              "primary": true,
+              "checked": "2026-10-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12",
+      "date": "2026-10-12",
+      "title": "October 12: filing deadlines, court orders and diaspora developments",
+      "type": "Complete source-reviewed brief",
+      "summary": "The six topics from the October 12 U.S. Immigrant Brief, with three primary-source-reviewed items and three attributed reports awaiting primary records. Earlier decisions and upcoming dates are identified clearly.",
+      "items": [
+        {
+          "id": "uscis-fees-oct16",
+          "topic": "U.S. Immigrant Brief",
+          "place": "U.S. federal · USCIS",
+          "title": "USCIS fees change October 16",
+          "text": "USCIS announced selected FY 2027 H.R. 1 fee increases on September 30. The new amounts apply to covered requests postmarked on or after October 16: annual pending-asylum fee $102 → $105; immigration parole fee $1,020 → $1,050; certain initial asylum, parole and TPS employment-authorization fees $560 → $570; TPS Form I-821 fee $510 → $520. These are selected fee categories, not a universal increase or a complete filing-cost calculation. This is an upcoming deadline from an earlier notice, not new October 12 rulemaking.",
+          "status": "Announced · upcoming effective date",
+          "newsDate": "2026-09-30",
+          "affectedPeople": "Applicants whose requests require the listed fees.",
+          "diasporaRelevance": "African immigrants preparing covered applications need the applicable fee category and postmark date to avoid rejection.",
+          "effectiveDate": "October 16, 2026",
+          "uncertainty": "Check the full USCIS instructions for your benefit and any additional fees. This review does not determine your personal filing obligations.",
+          "reviewedBy": "Codex · automated source review, not legal review",
+          "sources": [
+            {
+              "id": "uscis-fy2027-fees",
+              "title": "USCIS · September 30 fee bulletin",
+              "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/42d33bb",
+              "primary": true,
+              "checked": "2026-10-12"
+            },
+            {
+              "id": "fr-fy2027-fees",
+              "title": "Federal Register · October 1 fee notice",
+              "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
+              "primary": true,
+              "checked": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "biometrics-oct7",
+          "topic": "U.S. Immigrant Brief",
+          "place": "U.S. federal · District of Columbia",
+          "title": "Court stays detained-applicant biometrics policy",
+          "text": "The October 7 opinion in Z. v. DHS grants a temporary APA stay of the challenged policy stopping biometric collection for detained people with pending USCIS applications, and of the rescission of the agreement assigning collection to ICE. It denies the additional preliminary injunction request. The order requires a compliance status report by October 21. This is continuing litigation from October 7, not a new October 12 judgment.",
+          "status": "Litigation · October 7 order reviewed",
+          "newsDate": "2026-10-07",
+          "affectedPeople": "Detained people with pending USCIS applications requiring biometrics.",
+          "diasporaRelevance": "African applicants and families supporting someone in detention can bring the order to a qualified representative when biometric collection affects application processing.",
+          "effectiveDate": "Order dated October 7; compliance report due October 21, 2026",
+          "uncertainty": "This review verifies the October 7 document, not later docket activity or compliance in any individual case.",
+          "reviewedBy": "Codex · automated source review, not legal review",
+          "sources": [
+            {
+              "id": "ddc-biometrics-order",
+              "title": "October 7 court opinion and order · reproduced by Justia",
+              "url": "https://law.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1:2026cv01510/291982/46/",
+              "primary": true,
+              "checked": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "za-withdrawal-oct9",
+          "topic": "African Diaspora Brief",
+          "place": "South Africa · Refugee Reception Offices",
+          "title": "South Africa withdraws asylum-intake directive",
+          "text": "Home Affairs announced on October 9 that its Director-General withdrew the September 28 operational directive concerning asylum intake. The statement says a new operational approach will be developed to comply with the Constitutional Court order. An October 11 briefing describes a planned registration-and-appointment model targeted for November 10 and confirms that the existing court order remains binding while the government seeks court guidance. The future model is not evidence of a platform operating today.",
+          "status": "Directive withdrawn · replacement plan proposed",
+          "newsDate": "2026-10-09",
+          "affectedPeople": "People seeking asylum in South Africa and relatives assisting them.",
+          "diasporaRelevance": "U.S.-based African families helping relatives in South Africa need current intake instructions and should distinguish the withdrawn directive from proposed replacement arrangements.",
+          "effectiveDate": "Withdrawal announced October 9; replacement model targeted for November 10, 2026",
+          "uncertainty": "No current office-specific availability or subsequent court decision was confirmed. This development does not change U.S. immigration law.",
+          "reviewedBy": "Codex · automated source review, not legal review",
+          "sources": [
+            {
+              "id": "za-withdrawal",
+              "title": "South African Government · October 9 directive withdrawal",
+              "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026",
+              "primary": true,
+              "checked": "2026-10-12"
+            },
+            {
+              "id": "za-plan",
+              "title": "South African Government · October 11 implementation briefing",
+              "url": "https://www.gov.za/news/media-statements/inter-ministerial-committee-migration-outlines-legal-response-constitutional",
+              "primary": true,
+              "checked": "2026-10-12"
+            }
+          ]
+        }
+      ],
+      "reportedItems": [
+        {
+          "id": "egypt-return-report",
+          "topic": "U.S. Immigrant Brief",
+          "place": "U.S. federal · Arizona / Egypt / Equatorial Guinea",
+          "title": "Egyptian man’s return order: underlying record still needs verification",
+          "text": "Reuters reported on October 8 that a federal judge ordered steps to secure Ahmed Soliman’s release and return from Equatorial Guinea. Earlier October 7 reporting also describes the decision. The linked underlying court record could not be retrieved in this review. This story is retained from the requested brief as attributed reporting; neither the exact order date nor completion of return is independently confirmed here.",
+          "status": "Attributed report · primary verification pending",
+          "newsDate": "2026-10-08",
+          "affectedPeople": "Ahmed Soliman and people following third-country removal proceedings.",
+          "diasporaRelevance": "African diaspora readers following removal to third countries should check the individual court record and distinguish an order from completed government action.",
+          "effectiveDate": "Not independently established in this review",
+          "uncertainty": "The original brief called this an October 8 order. That date is the Reuters report date; earlier reporting exists. No return completion is verified.",
+          "reviewedBy": "Codex · automated source review, not legal review",
+          "sources": [
+            {
+              "id": "egypt-reuters",
+              "title": "Reuters · October 8 report",
+              "url": "https://www.streetinsider.com/Reuters/US%2Bjudge%2Borders%2Breturn%2Bof%2BEgyptian%2Bdeported%2Bto%2BEquatorial%2BGuinea/27166067.html",
+              "primary": false,
+              "checked": "2026-10-12"
+            },
+            {
+              "id": "egypt-court",
+              "title": "Linked court record · retrieval returned 403",
+              "url": "https://www.courtlistener.com/docket/74798782/14/amas-v-mullin/",
+              "primary": false,
+              "checked": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "omar-search-report",
+          "topic": "African Diaspora Brief",
+          "place": "Washington, DC area · U.S. federal",
+          "title": "Ilhan Omar home search: reporting and allegations distinguished",
+          "text": "October 12 reporting by NPR and the Associated Press describes a federal search at Representative Ilhan Omar’s DC-area home. NPR attributes confirmation of a judicially authorized HSI search to a DOJ statement. The agency statement and underlying warrant were not independently retrieved here. This is attributed reporting, not a verified finding about alleged immigration paperwork issues. A search does not establish guilt.",
+          "status": "Attributed report · agency record not retrieved",
+          "newsDate": "2026-10-12",
+          "affectedPeople": "Representative Omar; Somali-American readers following the reporting.",
+          "diasporaRelevance": "The story concerns a Somali-born U.S. lawmaker and warrants careful distinction between a reported investigative action, allegations and any judicial findings.",
+          "effectiveDate": "Reported search October 12, 2026",
+          "uncertainty": "Investigation details, underlying warrant and later developments remain unverified in this edition.",
+          "reviewedBy": "Codex · automated source review, not legal review",
+          "sources": [
+            {
+              "id": "omar-npr",
+              "title": "NPR / WBUR · October 12 search report",
+              "url": "https://www.wbur.org/npr/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+              "primary": false,
+              "checked": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "djibouti-shipwreck-report",
+          "topic": "African Diaspora Brief",
+          "place": "Djibouti–Yemen migration route",
+          "title": "Djibouti–Yemen shipwreck: casualty figures attributed to IOM",
+          "text": "ABC’s October 12 report attributes at least 139 deaths and 84 missing people to IOM after a vessel carrying 305 migrants capsized during October 8–9. More than 80 survivors were reported, all Ethiopian nationals. Reuters and UN news-index results show the casualty update was already reported on October 11. The full incident-specific IOM statement was not retrieved, so these figures remain attributed reporting in this edition.",
+          "status": "Humanitarian reporting · figures may change",
+          "newsDate": "2026-10-11",
+          "affectedPeople": "Migrants on the Eastern Route and their families, including Ethiopian diaspora communities.",
+          "diasporaRelevance": "U.S.-based families seeking news of relatives need official updates and should avoid treating changing casualty totals as final or posting private identifying details.",
+          "effectiveDate": "Incident October 8–9; casualty update reported October 11, 2026",
+          "uncertainty": "Figures can change. October 12 is the ABC publication date, not the first date of the IOM update. No individual identity is confirmed here.",
+          "reviewedBy": "Codex · automated source review, not legal review",
+          "sources": [
+            {
+              "id": "djibouti-abc",
+              "title": "ABC · October 12 report and IOM-supplied photographs",
+              "url": "https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724",
+              "primary": false,
+              "checked": "2026-10-12"
+            },
+            {
+              "id": "djibouti-reuters",
+              "title": "Reuters · October 11 casualty update",
+              "url": "https://www.investing.com/news/world-news/at-least-139-migrants-dead-including-some-children-after-boat-from-djibouti-to-yemen-capsizes-un-agency-says-4942740",
+              "primary": false,
+              "checked": "2026-10-12"
+            }
+          ]
+        }
+      ],
+      "correctionNote": "Updated October 12: replaces the earlier limited no-update review with the requested six-topic brief. The original poster is preserved as editorial artwork. The written source notes correct report dates and qualify verification and implementation status."
+    },
+    {
+      "id": "2026-10-11",
+      "date": "2026-10-11",
+      "title": "South Africa outlines asylum intake plan; court order still binds",
+      "type": "Full unified edition",
+      "summary": "An October 11 South African government briefing sets out a planned asylum registration model and pending court request. No fresh U.S. immigration item was verified in the federal indexes checked.",
+      "items": [
+        {
+          "id": "za-asylum-registration-plan-2026-10-11",
+          "topic": "African Diaspora Brief",
+          "place": "South Africa · national asylum system",
+          "title": "South Africa outlines planned asylum registration and court request",
+          "text": "In an October 11 briefing, the Inter Ministerial Committee on Migration said Home Affairs plans a phased intention-registration and appointment model for asylum applicants by November 10. It also said the government will ask courts for guidance and a possible suspension period on implementation of the July 7 Constitutional Court judgment. The committee explicitly said the existing court order remains binding while a decision is pending. The announced model would provide online or assisted registration and an appointment receipt; the briefing is not proof that the platform is operating now.",
+          "status": "Proposed implementation · court request pending",
+          "newsDate": "2026-10-11",
+          "affectedPeople": "People seeking asylum in South Africa, including those in detention, and U.S.-based relatives or support organizations helping them.",
+          "diasporaRelevance": "U.S.-based African families and advocates assisting people with South African asylum applications need to distinguish the announced future appointment model from intake available today and follow the court process before advising relatives. This South African development does not change U.S. immigration law.",
+          "effectiveDate": "Target introduction by 10 November 2026; not yet in effect as of the 11 October briefing.",
+          "uncertainty": "The court has not granted a supervisory or suspension order; detailed registration instructions and actual launch remain to be confirmed.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "sources": [
+            {
+              "id": "za-imc-asylum-2026-10-11",
+              "title": "South African Government · Inter Ministerial Committee on Migration briefing, 11 October",
+              "url": "https://www.gov.za/news/speeches/media-briefings/inter-ministerial-committee-migration-outline-legal-response",
+              "primary": true,
+              "checked": "2026-10-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10",
+      "date": "2026-10-10",
+      "title": "A regional rights call, with its limits clear",
+      "type": "Daily reviewed edition",
+      "summary": "A verified October 10 African Commission statement for U.S.-based families and advocates; no new U.S. immigration item or policy alert was verified from the sources checked.",
+      "items": [
+        {
+          "id": "achpr-death-penalty-statement-2026-10-10",
+          "topic": "African Diaspora Brief",
+          "place": "African Union · regional human rights body",
+          "title": "African Commission calls for death-penalty safeguards",
+          "text": "In an October 10 statement, the African Commission on Human and Peoples’ Rights urged African states that retain the death penalty to establish or uphold moratoria, protect the rights of people sentenced to death, support affected families and back a draft African Union abolition protocol. These are calls by the Commission; the statement does not announce a new binding rule or a country-level change.",
+          "status": "Official statement · advocacy call; no new rule",
+          "newsDate": "2026-10-10",
+          "affectedPeople": "People sentenced to death in African states, victims and their families, and U.S.-based relatives or advocacy groups supporting them.",
+          "diasporaRelevance": "U.S.-based African families and human-rights groups with loved ones or partner organizations in affected countries can use the Commission’s dated statement when following or advocating on fair-trial and detention concerns. It does not change any U.S. legal right.",
+          "effectiveDate": "No effective date; statement issued 10 October 2026",
+          "uncertainty": "The statement does not identify a new rule in any specific African country; adoption of the draft AU protocol remains uncertain.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "sources": [
+            {
+              "id": "achpr-death-penalty-2026-10-10",
+              "title": "African Commission on Human and Peoples’ Rights · October 10 statement",
+              "url": "https://achpr.au.int/index.php/en/news/press-releases/2026-10-10/statement-african-commission-human-and-peoples-rights-occasion",
+              "primary": true,
+              "checked": "2026-10-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-09",
+      "date": "2026-10-09",
+      "title": "One community. A clearer starting point.",
+      "type": "Reference edition",
+      "summary": "A unified home for U.S. immigrant information, African diaspora coverage and verified policy alerts, expanded with official federal and state sources. The coverage record names every African country, U.S. state and DC and states what was actually checked.",
+      "items": [
+        {
+          "topic": "U.S. Immigrant Brief",
+          "place": "United States · Federal",
+          "title": "Start with the official visa resource",
+          "text": "The U.S. Department of State's visa hub brings together immigrant and nonimmigrant visa information. Read the official guidance that applies to your visa category before acting.",
+          "status": "Reference resource",
+          "sources": [
+            {
+              "title": "U.S. Department of State · U.S. Visas",
+              "url": "https://travel.state.gov/content/travel/en/us-visas.html",
+              "checked": "2026-10-09"
+            }
+          ],
+          "diasporaRelevance": "U.S.-based African immigrants and their relatives can use this federal starting point to identify the visa guidance relevant to a planned visit, family reunification or other application. This is a reference resource, not a new development."
+        },
+        {
+          "topic": "African Diaspora Brief",
+          "place": "Africa · Diaspora",
+          "title": "Understand the AU's diaspora engagement work",
+          "text": "The African Union's Citizens and Diaspora Organizations Directorate (CIDO) supports participation by civil society and diaspora communities in the continent's development agenda. This is background context, not a new policy announcement.",
+          "status": "Reference resource",
+          "sources": [
+            {
+              "title": "African Union · Diaspora & Civil Society Engagement",
+              "url": "https://www.au.int/en/diaspora-civil-society-engagement",
+              "checked": "2026-10-09"
+            }
+          ],
+          "diasporaRelevance": "African diaspora organizations and individuals living in the U.S. can use this AU resource to understand ways to connect with continental civil society work. This is background context, not a new policy."
+        },
+        {
+          "topic": "African Diaspora Brief",
+          "place": "South Africa",
+          "title": "South Africa withdraws asylum-intake directive",
+          "text": "Home Affairs says its Director-General withdrew the 28 September asylum-intake directive and will develop a new operational approach to comply with the Constitutional Court order. The notice does not specify replacement intake procedures. Confirm current office guidance before travel; this announcement does not itself cancel the court order.",
+          "status": "Official notice · withdrawn",
+          "sources": [
+            {
+              "title": "South African Government · Home Affairs statement",
+              "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026",
+              "primary": true,
+              "checked": "2026-10-09"
+            }
+          ],
+          "id": "za-asylum-intake-2026-10-09",
+          "newsDate": "2026-10-09",
+          "diasporaRelevance": "For people in the U.S. helping relatives navigate asylum procedures in South Africa, the withdrawn directive changes which announcement they should rely on. The notice does not establish a replacement intake procedure.",
+          "affectedPeople": "Asylum seekers dealing with South African Refugee Reception Offices and U.S.-based family or supporters assisting them.",
+          "effectiveDate": "Withdrawal announced 9 October 2026; no separate effective date stated.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review"
+        },
+        {
+          "topic": "U.S. Immigrant Brief",
+          "place": "Africa · U.S. visa services",
+          "title": "Regional U.S. visa hubs affect 25 African posts",
+          "text": "The State Department says routine immigrant and nonimmigrant visa services at 25 African posts were realigned to regional hubs effective 1 August 2026. Citizens and residents applying from affected locations should confirm their designated immigrant or nonimmigrant processing post before paying a fee or arranging travel. This is an existing policy, not a new October 9 change; current valid visas are unaffected according to the notice.",
+          "status": "In effect · official notice",
+          "sources": [
+            {
+              "id": "us-visa-hubs-africa",
+              "title": "U.S. Department of State · Africa visa-service realignment",
+              "url": "https://travel.state.gov/content/travel/en/News/visas-news/realignment-of-us-visa-services-in-africa-to-regional-hubs.html",
+              "checked": "2026-10-09",
+              "primary": true
+            }
+          ],
+          "diasporaRelevance": "U.S.-based African families helping relatives apply for visas from affected African countries may need to coordinate with a different processing post. The change took effect in August, not October."
+        },
+        {
+          "topic": "U.S. Immigrant Brief",
+          "place": "California · Head Start",
+          "title": "California joins comment opposing proposed Head Start changes",
+          "text": "California’s Attorney General said on 6 October that a multistate coalition submitted comments opposing proposed federal Head Start standards, including an English-only mandate. This is a proposal and a state comment, not a final rule. Low-income families, including immigrant families, may be affected if the proposal is adopted; the outcome remains uncertain.",
+          "status": "Proposed · official state comment",
+          "sources": [
+            {
+              "id": "ca-head-start-comment",
+              "title": "California Department of Justice · Head Start standards comment",
+              "url": "https://www.oag.ca.gov/news/press-releases/attorney-general-bonta-co-leads-coalition-opposing-trump-administration%E2%80%99s-cruel",
+              "checked": "2026-10-09",
+              "primary": true
+            }
+          ],
+          "diasporaRelevance": "African immigrant families with young children in the U.S. could be affected by any eventual federal Head Start rule; the California action is a comment on a proposal, not a final rule."
+        },
+        {
+          "topic": "U.S. Immigrant Brief",
+          "place": "New York · multistate litigation",
+          "title": "New York leads challenge to public charge rule",
+          "text": "The New York Attorney General said on 14 September that New York and a coalition of states and DC sued over a federal public charge rule affecting green-card decisions and lawful benefit use. This is litigation, not a final court outcome. Families should verify the current rule and any court order before making benefit or filing decisions.",
+          "status": "Litigation · official state filing notice",
+          "sources": [
+            {
+              "id": "ny-public-charge-lawsuit",
+              "title": "New York Attorney General · public charge lawsuit",
+              "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-leads-major-challenge-trump-administrations-attack",
+              "checked": "2026-10-09",
+              "primary": true
+            }
+          ],
+          "diasporaRelevance": "African immigrants in the U.S. considering benefits or green-card applications may be affected by the disputed public-charge rule; litigation does not establish a final outcome."
+        }
+      ],
+      "revision": "Expanded 9 October 2026 to add an explicit 54-country and 50-state-plus-DC coverage record and three official-source items; earlier content retained."
+    },
+    {
+      "id": "2026-10-07",
+      "date": "2026-10-07",
+      "title": "African Diaspora Daily Brief",
+      "type": "Legacy archive",
+      "path": "/archive/2026-10-07/",
+      "summary": "Preserved original edition, with its original sources and coverage limitations. Not reverified for the launch edition.",
+      "items": []
+    },
+    {
+      "id": "2026-10-05",
+      "date": "2026-10-05",
+      "title": "African Diaspora Daily Brief",
+      "type": "Legacy archive",
+      "path": "/archive/2026-10-05/",
+      "summary": "Preserved original edition, with its original sources and coverage limitations. Not reverified for the launch edition.",
+      "items": []
+    }
+  ],
+  "digestWindows": [
+    {
+      "start": "2026-10-01",
+      "end": "2026-10-02",
+      "title": "Immigration court fees take effect",
+      "status": "Retrospective partial review",
+      "checkedAt": "2026-10-09",
+      "items": [
+        {
+          "pillar": "U.S. Immigrant Brief",
+          "date": "2026-10-01",
+          "dateKind": "Effective date; rule published August 21",
+          "title": "FY 2027 immigration court fee adjustments take effect",
+          "summary": "The Justice Department's Executive Office for Immigration Review says its inflation-adjusted filing fees took effect October 1. Check the official fee schedule for the specific filing before paying; this digest does not calculate anyone's fee or eligibility.",
+          "jurisdiction": "United States · federal immigration courts",
+          "affectedPeople": "People filing covered matters with EOIR, including African immigrants in U.S. immigration proceedings.",
+          "effectiveDate": "October 1, 2026",
+          "status": "Rule in effect",
+          "uncertainty": "The amount depends on the filing; consult the current official schedule and any later court order.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "source": {
+            "title": "U.S. Department of Justice · EOIR Federal Register notices 2026",
+            "url": "https://www.justice.gov/eoir/federal-register-notices-2026",
+            "primary": true,
+            "checked": "2026-10-09"
+          }
+        }
+      ]
+    },
+    {
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "title": "African diaspora arts in San Francisco",
+      "status": "Retrospective partial review",
+      "checkedAt": "2026-10-09",
+      "items": [
+        {
+          "pillar": "African Diaspora Brief",
+          "date": "2026-10-03",
+          "dateKind": "Event date; not a policy announcement",
+          "title": "Museum of the African Diaspora holds Afropolitan Ball",
+          "summary": "San Francisco's Museum of the African Diaspora lists its October 3 Afropolitan Ball and says the 2026 Vanguard Award recognizes artist Dewey Crumpler. This is a U.S. community and culture item, not a rights or immigration policy change.",
+          "jurisdiction": "California · San Francisco",
+          "affectedPeople": "African diaspora artists, cultural organizations and communities in the United States.",
+          "effectiveDate": "Event held October 3, 2026; no policy effective date.",
+          "status": "Organization event page",
+          "uncertainty": "The organizer page verifies its announced program; it does not independently verify attendance or outcomes.",
+          "reviewedBy": "Codex · automated organizer-source review, not legal review",
+          "source": {
+            "title": "Museum of the African Diaspora · Afropolitan Ball",
+            "url": "https://www.moadsf.org/afropolitan-ball-sonic-lineages",
+            "primary": true,
+            "checked": "2026-10-09"
+          }
+        }
+      ]
+    },
+    {
+      "start": "2026-10-05",
+      "end": "2026-10-06",
+      "title": "Head Start proposal draws California comment",
+      "status": "Retrospective partial review",
+      "checkedAt": "2026-10-09",
+      "items": [
+        {
+          "pillar": "U.S. Immigrant Brief",
+          "date": "2026-10-06",
+          "dateKind": "State comment date",
+          "title": "California opposes proposed Head Start standards",
+          "summary": "California's Attorney General says a multistate coalition submitted comments opposing proposed federal Head Start changes, including an English-only mandate. This is a comment on a proposal, not a final rule.",
+          "jurisdiction": "California · proposed federal Head Start standards",
+          "affectedPeople": "U.S. families with young children, potentially including African immigrant families if a future rule is adopted.",
+          "effectiveDate": "No effective date; proposal remains under consideration.",
+          "status": "Proposal · state comment",
+          "uncertainty": "The proposal's final text and outcome are unknown.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "source": {
+            "title": "California Department of Justice · Head Start comment",
+            "url": "https://www.oag.ca.gov/news/press-releases/attorney-general-bonta-co-leads-coalition-opposing-trump-administration%E2%80%99s-cruel",
+            "primary": true,
+            "checked": "2026-10-09"
+          }
+        }
+      ]
+    },
+    {
+      "start": "2026-10-07",
+      "end": "2026-10-08",
+      "title": "South Africa clarifies asylum judgment",
+      "status": "Retrospective partial review · later notice linked",
+      "checkedAt": "2026-10-09",
+      "items": [
+        {
+          "pillar": "African Diaspora Brief",
+          "date": "2026-10-07",
+          "dateKind": "Government statement date",
+          "title": "Home Affairs says asylum court judgment is binding",
+          "summary": "In an October 7 statement reported by South Africa's government news agency, Home Affairs said it must implement the Constitutional Court asylum-access judgment and rejected claims that it grants automatic citizenship or blanket legal status. A later October 9 notice withdrew the department's September 28 intake directive; read that update before relying on procedures.",
+          "jurisdiction": "South Africa · asylum intake",
+          "affectedPeople": "People seeking asylum in South Africa and U.S.-based relatives or advocates helping them.",
+          "effectiveDate": "Court judgment predates this statement; October 9 directive withdrawal is a later development.",
+          "status": "Government statement · superseded operational context",
+          "uncertainty": "Current replacement intake instructions were not specified in the October 9 withdrawal notice.",
+          "reviewedBy": "Codex · automated government-source review, not legal review",
+          "source": {
+            "title": "SAnews · Home Affairs statement, October 7",
+            "url": "https://www.sanews.gov.za/south-africa/home-affairs-condemns-disinformation-scalabrini-judgement",
+            "primary": true,
+            "checked": "2026-10-09"
+          },
+          "followUp": {
+            "title": "South African Government · October 9 withdrawal",
+            "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026"
+          }
+        }
+      ]
+    },
+    {
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "title": "South Africa withdraws asylum-intake directive",
+      "status": "In-progress window · partial review through October 9",
+      "checkedAt": "2026-10-09",
+      "items": [
+        {
+          "pillar": "Policy Alerts",
+          "date": "2026-10-09",
+          "dateKind": "Official notice date",
+          "title": "Home Affairs withdraws September 28 asylum-intake directive",
+          "summary": "South Africa's Home Affairs department says it withdrew the September 28 operational directive and will prepare a new approach to comply with the Constitutional Court judgment. The notice does not state replacement intake steps.",
+          "jurisdiction": "South Africa · Refugee Reception Offices",
+          "affectedPeople": "Asylum seekers in South Africa and U.S.-based family or supporters assisting them.",
+          "effectiveDate": "Withdrawal announced October 9; no separate effective date stated.",
+          "status": "Directive withdrawn · replacement pending",
+          "uncertainty": "The court judgment remains binding; replacement procedures are not yet specified in this notice.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "source": {
+            "title": "South African Government · Home Affairs withdrawal notice",
+            "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026",
+            "primary": true,
+            "checked": "2026-10-09"
+          }
+        }
+      ],
+      "newsletter": "/newsletter/2026-10-09/"
+    },
+    {
+      "start": "2026-10-11",
+      "end": "2026-10-12",
+      "title": "South Africa outlines an asylum intake plan",
+      "status": "Completed window · partial review through October 12",
+      "checkedAt": "2026-10-12",
+      "coverageChecks": {
+        "africa": {
+          "verified": [
+            "South Africa"
+          ],
+          "noUpdate": []
+        },
+        "unitedStates": {
+          "verified": [],
+          "noUpdate": []
+        },
+        "federal": {
+          "verified": [],
+          "noUpdate": [
+            "U.S. DOJ EOIR · notices and press releases",
+            "U.S. Department of State · U.S. Visas News",
+            "African Commission · 89th session advisory"
+          ]
+        }
+      },
+      "items": [
+        {
+          "pillar": "Policy Alerts",
+          "date": "2026-10-11",
+          "dateKind": "Official government briefing date",
+          "title": "South Africa plans asylum registration by November 10",
+          "summary": "The migration committee outlined a phased intention-registration and appointment model and said it will seek court guidance. It acknowledged that the existing Constitutional Court order remains binding while the request is pending.",
+          "jurisdiction": "South Africa · national asylum system",
+          "affectedPeople": "Asylum seekers in South Africa and U.S.-based relatives or advocates helping them distinguish planned intake from current procedures.",
+          "effectiveDate": "Target by November 10, 2026; not yet effective as of October 11.",
+          "status": "Proposed · litigation request pending",
+          "uncertainty": "No court suspension has been granted and the platform launch and operational details remain unconfirmed.",
+          "reviewedBy": "Codex · automated primary-source review, not legal review",
+          "source": {
+            "id": "za-imc-asylum-2026-10-11",
+            "title": "South African Government · Inter Ministerial Committee on Migration briefing, 11 October",
+            "url": "https://www.gov.za/news/speeches/media-briefings/inter-ministerial-committee-migration-outline-legal-response",
+            "primary": true,
+            "checked": "2026-10-11"
+          }
+        }
+      ],
+      "newsletter": "/newsletter/2026-10-11/"
+    }
+  ],
+  "newsletters": [
+    {
+      "date": "2026-10-13",
+      "editionId": "2026-10-13",
+      "title": "October 13: West Africa operation, with source limits",
+      "summary": "DOJ reports arrests and trafficking-victim identification in Ghana and Nigeria. U.S. visa and immigration-court indexes showed no new qualifying notice in this limited review; no new policy alert was verified.",
+      "scope": "Reviewed DOJ’s October 13 primary release, the U.S. State Department visa-news index, EOIR notices index and South African government media-statements index. One qualifying diaspora item is included. USCIS could not be retrieved; no individual U.S. state or DC source and no individual African-country source was checked.",
+      "itemIds": [
+        "doj-west-africa-disruption-2026-10-13"
+      ],
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "poster": {
+        "url": "/posters/2026-10-13.svg",
+        "alt": "Forest-green and gold October 13 KnowYourRights Africa editorial poster summarizing a DOJ-reported West Africa operation.",
+        "caption": "Original editorial illustration for the October 13 issue. It is not documentary evidence; use the linked DOJ release for facts."
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "editionId": "2026-10-12",
+      "title": "October 12: filing deadlines, court orders and diaspora developments",
+      "summary": "The six topics from the October 12 U.S. Immigrant Brief, with three primary-source-reviewed items and three attributed reports awaiting primary records. Earlier decisions and upcoming dates are identified clearly.",
+      "scope": "Expanded review of the six topics in the October 12 chat brief. Read the source-reviewed items and the separately labeled attributed reports. The full review does not cover every African country or U.S. state.",
+      "itemIds": [
+        "uscis-fees-oct16",
+        "biometrics-oct7",
+        "za-withdrawal-oct9"
+      ],
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "poster": {
+        "url": "/posters/2026-10-12-original.png",
+        "alt": "Original October 12 KnowYourRights Africa six-story editorial poster; source and date qualifications appear in the written brief.",
+        "caption": "Original AI-generated editorial poster from the October 12 brief, preserved for context. Illustrations are not photographs or evidence. Some poster wording has stronger verification labels or different report dates than the written review; use the written source notes and corrections."
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "editionId": "2026-10-11",
+      "title": "South Africa’s asylum intake plan, with the legal status clear",
+      "summary": "The official October 11 briefing sets a target date for a new registration model; the existing court order remains binding and the court request is pending.",
+      "scope": "Checked South African Government’s October 11 briefing and media index, the U.S. DOJ EOIR notices index, and the U.S. State Department visa-news index. The latter two showed no qualifying October 11 item at review time. USCIS retrieval failed; no U.S. state or DC source and no other African country source was individually checked.",
+      "itemIds": [
+        "za-asylum-registration-plan-2026-10-11"
+      ],
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "poster": {
+        "url": "/posters/2026-10-11-summary.svg",
+        "alt": "October 11 editorial poster: South Africa outlines an asylum registration plan; the court order still binds.",
+        "caption": "Original editorial illustration, not evidence. The linked government briefing supports the summary."
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "editionId": "2026-10-10",
+      "title": "African Commission calls for rights safeguards",
+      "summary": "An October 10 regional human-rights statement, with the U.S. diaspora connection and its nonbinding status clearly marked.",
+      "scope": "Reviewed the African Commission statement, EOIR notices index, U.S. State Department visa-news index and South African Government media-statements index on October 10. The latter three yielded no qualifying new item for this issue at review time. USCIS could not be retrieved. No individual U.S. state or DC source was checked, and the AU regional statement is not an individual review of 54 African countries.",
+      "itemIds": [
+        "achpr-death-penalty-statement-2026-10-10"
+      ],
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "poster": {
+        "url": "/posters/2026-10-10-summary.svg",
+        "alt": "October 10 editorial poster: African Commission calls for death-penalty safeguards; the call is not a new binding rule.",
+        "caption": "Original editorial illustration, not documentary evidence. The linked Commission statement supports the summary."
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "editionId": "2026-10-09",
+      "pilot": true,
+      "title": "South Africa withdraws asylum directive",
+      "summary": "A verified October 9 South African notice, with its possible relevance to U.S.-based family and supporters. Other jurisdictions remain under review.",
+      "scope": "This daily issue includes one October 9 development with official primary evidence. The complete 54-country and 50-state-plus-DC index shows research status, not 105 verified news items. Earlier sources remain in the full reference edition and are not recast as new today.",
+      "itemIds": [
+        "za-asylum-intake-2026-10-09"
+      ],
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "revision": "2026-10-09: daily news narrowed to verified, dated, U.S.-diaspora-relevant developments; general references and earlier context removed from the daily news cards.",
+      "poster": {
+        "url": "/posters/2026-10-09-hero.png",
+        "alt": "October 9 KnowYourRights Africa summary poster: South African asylum intake directive withdrawn; earlier U.S. visa, Head Start and public-charge context is date labeled; the replacement process is not yet specified.",
+        "caption": "Dated editorial summary. Earlier U.S. items are context, not October 9 news. Illustration is not evidence; follow the linked official sources."
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "id": "uscis-fees-2027",
+      "title": "USCIS fees change October 16",
+      "jurisdiction": "U.S. federal · USCIS",
+      "status": "Upcoming",
+      "summary": "Selected H.R. 1 USCIS fees increase for covered requests postmarked on or after October 16, 2026.",
+      "impact": "Incorrect amounts can cause rejection. Review the category-specific official instructions.",
+      "effectiveDate": "October 16, 2026",
+      "checkedAt": "2026-10-12",
+      "newsDate": "2026-09-30",
+      "reviewedBy": "Codex · automated source review, not legal review",
+      "verification": "verified",
+      "diasporaRelevance": "African immigrants preparing covered applications need the applicable fee category and postmark date to avoid rejection.",
+      "sources": [
+        {
+          "id": "fr-fy2027-fees",
+          "title": "Federal Register · October 1 fee notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "uscis-fy2027-fees",
+          "title": "USCIS · September 30 fee bulletin",
+          "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/42d33bb",
+          "primary": true,
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "za-asylum-registration-plan-2026-10-11",
+      "title": "South Africa plans asylum intention-registration model",
+      "jurisdiction": "South Africa · national asylum system and Refugee Reception Offices",
+      "status": "Proposed",
+      "summary": "The Inter Ministerial Committee says Home Affairs plans an intention-registration and appointment model by November 10; this is a proposed implementation timetable, not a live intake platform.",
+      "impact": "U.S.-based families and support groups assisting asylum seekers in South Africa should check current official intake procedures and the pending court process. The July 7 Constitutional Court order remains binding while the government seeks guidance.",
+      "effectiveDate": "Target by 10 November 2026; not yet in effect as of 11 October.",
+      "checkedAt": "2026-10-11",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "verification": "verified",
+      "sources": [
+        {
+          "id": "za-imc-asylum-2026-10-11",
+          "title": "South African Government · Inter Ministerial Committee on Migration briefing, 11 October",
+          "url": "https://www.gov.za/news/speeches/media-briefings/inter-ministerial-committee-migration-outline-legal-response",
+          "primary": true,
+          "checked": "2026-10-11"
+        }
+      ],
+      "diasporaRelevance": "U.S.-based African families and advocates assisting people with South African asylum applications need to distinguish the announced future appointment model from intake available today and follow the court process before advising relatives. This South African development does not change U.S. immigration law.",
+      "newsDate": "2026-10-11"
+    },
+    {
+      "id": "za-asylum-intake-2026-10-09",
+      "title": "South Africa withdraws asylum-intake directive",
+      "jurisdiction": "South Africa · Refugee Reception Offices",
+      "status": "Withdrawn",
+      "summary": "Home Affairs says its Director-General withdrew the 28 September asylum-intake directive and will develop a new operational approach to comply with the Constitutional Court order.",
+      "impact": "The notice does not specify replacement intake procedures. Confirm current office guidance before travel; this announcement does not itself cancel the court order.",
+      "effectiveDate": "Withdrawal announced 9 October 2026; no separate effective date stated",
+      "checkedAt": "2026-10-09",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "verification": "verified",
+      "sources": [
+        {
+          "title": "South African Government · Home Affairs statement",
+          "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026",
+          "primary": true,
+          "checked": "2026-10-09"
+        }
+      ],
+      "diasporaRelevance": "For U.S.-based people supporting relatives dealing with asylum intake in South Africa, this withdrawal may change which operational announcement they should rely on; the replacement process is not yet stated.",
+      "newsDate": "2026-10-09"
+    }
+  ],
+  "coverageRecords": [
+    {
+      "date": "2026-10-13",
+      "method": "October 13 limited review: read the DOJ operation release and the current EOIR notices, State visa-news and South African media-statements indexes. The DOJ item is a U.S. federal source about operations in Ghana and Nigeria; neither country government source was individually checked. No 54-country or 50-state/DC scan is claimed.",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "sources": [
+        {
+          "id": "doj-west-africa-disruption-2026-10-13",
+          "title": "U.S. Department of Justice · October 13 Joint Disruption Week release",
+          "url": "https://www.justice.gov/opa/pr/department-justice-announces-results-law-enforcement-and-private-industry-joint-disruption",
+          "primary": true,
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "eoir-index-2026-10-13",
+          "title": "U.S. DOJ EOIR · notices and press releases index",
+          "url": "https://www.justice.gov/eoir/notices-and-press-releases",
+          "primary": true,
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "dos-index-2026-10-13",
+          "title": "U.S. Department of State · U.S. Visas News index",
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news.html",
+          "primary": true,
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "za-index-2026-10-13",
+          "title": "South African Government · media statements index",
+          "url": "https://www.gov.za/news/media-statements",
+          "primary": true,
+          "checked": "2026-10-13"
+        }
+      ],
+      "africa": [
+        {
+          "name": "Algeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Angola",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Benin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Botswana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Burkina Faso",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Burundi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Cabo Verde",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Cameroon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Central African Republic",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Chad",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Comoros",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Côte d’Ivoire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Djibouti",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Egypt",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Equatorial Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Eritrea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Eswatini",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Ethiopia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Gabon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "The Gambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Ghana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Guinea-Bissau",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Kenya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Lesotho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Liberia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Libya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Madagascar",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Malawi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Mali",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Mauritania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Mauritius",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Morocco",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Mozambique",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Namibia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Niger",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Nigeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Rwanda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "São Tomé and Príncipe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Senegal",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Seychelles",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Sierra Leone",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Somalia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "South Africa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "South Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Tanzania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Togo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Tunisia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Uganda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Zambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Zimbabwe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        }
+      ],
+      "unitedStates": [
+        {
+          "name": "Alabama",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Alaska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Arizona",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Arkansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "California",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Colorado",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Connecticut",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Delaware",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Florida",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Georgia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Hawaii",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Idaho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Illinois",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Indiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Iowa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Kansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Kentucky",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Louisiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Maine",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Maryland",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Massachusetts",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Michigan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Minnesota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Mississippi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Missouri",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Montana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Nebraska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Nevada",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "New Hampshire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "New Jersey",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "New Mexico",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "New York",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "North Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "North Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Ohio",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Oklahoma",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Oregon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Pennsylvania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Rhode Island",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "South Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "South Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Tennessee",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Texas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Utah",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Vermont",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Washington",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "West Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Wisconsin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "Wyoming",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        },
+        {
+          "name": "District of Columbia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 13 issue."
+        }
+      ],
+      "federal": [
+        {
+          "name": "U.S. DOJ · West Africa operation release",
+          "review": "official_source_checked",
+          "sourceIds": [
+            "doj-west-africa-disruption-2026-10-13"
+          ],
+          "note": "October 13 primary agency statement reviewed. Ghanaian and Nigerian underlying records were not retrieved."
+        },
+        {
+          "name": "U.S. DOJ EOIR · notices and press releases",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "eoir-index-2026-10-13"
+          ],
+          "note": "No October 13 notice shown at review time; other EOIR pages not surveyed."
+        },
+        {
+          "name": "U.S. Department of State · U.S. Visas News",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "dos-index-2026-10-13"
+          ],
+          "note": "Latest listed item was October 2 at review time; embassy pages not surveyed."
+        },
+        {
+          "name": "South African Government · media statements",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "za-index-2026-10-13"
+          ],
+          "note": "October 13 index items were reviewed by headline for relevance; no qualifying migration or U.S. diaspora item identified. Full text of every statement was not reviewed."
+        },
+        {
+          "name": "USCIS newsroom",
+          "review": "not_checked",
+          "sourceIds": [],
+          "note": "Direct page retrieval failed; no no-update conclusion."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "method": "Expanded October 12 review: USCIS fee bulletin and Federal Register notice, reproduced October 7 court opinion, and South African October 9 and 11 statements were read. Three additional topics were checked through attributed reporting but their full underlying primary records were unavailable. Existing earlier source checks are retained. No comprehensive 54-country or 50-state/DC review is claimed.",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "sources": [
+        {
+          "id": "eoir-notices-index-2026-10-12",
+          "title": "U.S. DOJ EOIR · notices and press releases index",
+          "url": "https://www.justice.gov/eoir/notices-and-press-releases",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "dos-visa-news-2026-10-12",
+          "title": "U.S. Department of State · U.S. Visas News index",
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news.html",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "sa-statements-index-2026-10-12",
+          "title": "South African Government · media statements index",
+          "url": "https://www.gov.za/news/media-statements",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "achpr-session-advisory-2026-10-12",
+          "title": "African Commission · September 28 advisory for October 12–21 session",
+          "url": "https://achpr.au.int/index.php/en/news/press-releases/2026-09-28/media-advisory-89th-ordinary-session-african-commission-human-people",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "uscis-fy2027-fees",
+          "title": "USCIS · September 30 fee bulletin",
+          "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/42d33bb",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "fr-fy2027-fees",
+          "title": "Federal Register · October 1 fee notice",
+          "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "ddc-biometrics-order",
+          "title": "October 7 court opinion and order · reproduced by Justia",
+          "url": "https://law.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1:2026cv01510/291982/46/",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "za-withdrawal",
+          "title": "South African Government · October 9 directive withdrawal",
+          "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026",
+          "primary": true,
+          "checked": "2026-10-12"
+        },
+        {
+          "id": "za-plan",
+          "title": "South African Government · October 11 implementation briefing",
+          "url": "https://www.gov.za/news/media-statements/inter-ministerial-committee-migration-outlines-legal-response-constitutional",
+          "primary": true,
+          "checked": "2026-10-12"
+        }
+      ],
+      "africa": [
+        {
+          "name": "Algeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Angola",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Benin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Botswana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Burkina Faso",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Burundi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Cabo Verde",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Cameroon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Central African Republic",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Chad",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Comoros",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Côte d’Ivoire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Djibouti",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Egypt",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Equatorial Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Eritrea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Eswatini",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Ethiopia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Gabon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "The Gambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Ghana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Guinea-Bissau",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Kenya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Lesotho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Liberia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Libya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Madagascar",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Malawi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Mali",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Mauritania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Mauritius",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Morocco",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Mozambique",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Namibia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Niger",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Nigeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Rwanda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "São Tomé and Príncipe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Senegal",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Seychelles",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Sierra Leone",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Somalia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "South Africa",
+          "review": "partial_official_source_checked",
+          "sourceIds": [
+            "sa-statements-index-2026-10-12",
+            "za-withdrawal",
+            "za-plan"
+          ],
+          "note": "October 9 withdrawal and October 11 planned model reviewed."
+        },
+        {
+          "name": "South Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Tanzania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Togo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Tunisia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Uganda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Zambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Zimbabwe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        }
+      ],
+      "unitedStates": [
+        {
+          "name": "Alabama",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Alaska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Arizona",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Arkansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "California",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Colorado",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Connecticut",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Delaware",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Florida",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Georgia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Hawaii",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Idaho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Illinois",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Indiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Iowa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Kansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Kentucky",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Louisiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Maine",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Maryland",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Massachusetts",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Michigan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Minnesota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Mississippi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Missouri",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Montana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Nebraska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Nevada",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "New Hampshire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "New Jersey",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "New Mexico",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "New York",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "North Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "North Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Ohio",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Oklahoma",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Oregon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Pennsylvania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Rhode Island",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "South Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "South Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Tennessee",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Texas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Utah",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Vermont",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Washington",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "West Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Wisconsin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "Wyoming",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        },
+        {
+          "name": "District of Columbia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 12 issue."
+        }
+      ],
+      "federal": [
+        {
+          "name": "U.S. DOJ EOIR · notices and press releases",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "eoir-notices-index-2026-10-12"
+          ],
+          "note": "This index showed no October 12 item at review time; other EOIR pages were not surveyed."
+        },
+        {
+          "name": "U.S. Department of State · U.S. Visas News",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "dos-visa-news-2026-10-12"
+          ],
+          "note": "This index showed no October 12 item at review time; embassy pages were not surveyed."
+        },
+        {
+          "name": "USCIS newsroom",
+          "review": "not_checked",
+          "sourceIds": [],
+          "note": "Direct retrieval failed with HTTP 403; no no-update conclusion."
+        },
+        {
+          "name": "African Commission · 89th session advisory",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "achpr-session-advisory-2026-10-12"
+          ],
+          "note": "The session begins October 12, but the advisory was issued September 28 and is not a new daily development."
+        },
+        {
+          "name": "USCIS fee notice and D.D.C. biometrics opinion",
+          "review": "partial_official_source_checked",
+          "sourceIds": [
+            "uscis-fy2027-fees",
+            "fr-fy2027-fees",
+            "ddc-biometrics-order"
+          ],
+          "note": "Earlier notices and court order reviewed; later docket activity and individual compliance not confirmed."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "method": "South Africa’s official October 11 migration briefing and government media index were checked. The EOIR and State Department visa-news indexes showed no qualifying October 11 item at review time; this does not survey all federal pages. USCIS retrieval failed. No other African country, U.S. state or DC source was individually checked.",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "sources": [
+        {
+          "id": "za-imc-asylum-2026-10-11",
+          "title": "South African Government · Inter Ministerial Committee on Migration briefing, 11 October",
+          "url": "https://www.gov.za/news/speeches/media-briefings/inter-ministerial-committee-migration-outline-legal-response",
+          "primary": true,
+          "checked": "2026-10-11"
+        },
+        {
+          "id": "eoir-notices-index-2026-10-11",
+          "title": "U.S. DOJ EOIR · notices and press releases index",
+          "url": "https://www.justice.gov/eoir/notices-and-press-releases",
+          "primary": true,
+          "checked": "2026-10-11"
+        },
+        {
+          "id": "dos-visa-news-2026-10-11",
+          "title": "U.S. Department of State · U.S. Visas News index",
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news.html",
+          "primary": true,
+          "checked": "2026-10-11"
+        },
+        {
+          "id": "sa-statements-index-2026-10-11",
+          "title": "South African Government · media statements index",
+          "url": "https://www.gov.za/news/media-statements",
+          "primary": true,
+          "checked": "2026-10-11"
+        }
+      ],
+      "africa": [
+        {
+          "name": "Algeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Angola",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Benin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Botswana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Burkina Faso",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Burundi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Cabo Verde",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Cameroon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Central African Republic",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Chad",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Comoros",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Côte d’Ivoire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Djibouti",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Egypt",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Equatorial Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Eritrea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Eswatini",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Ethiopia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Gabon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "The Gambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Ghana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Guinea-Bissau",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Kenya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Lesotho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Liberia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Libya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Madagascar",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Malawi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Mali",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Mauritania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Mauritius",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Morocco",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Mozambique",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Namibia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Niger",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Nigeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Rwanda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "São Tomé and Príncipe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Senegal",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Seychelles",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Sierra Leone",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Somalia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "South Africa",
+          "review": "official_source_checked",
+          "sourceIds": [
+            "za-imc-asylum-2026-10-11"
+          ],
+          "note": "October 11 national government migration briefing verified; no provincial source scan."
+        },
+        {
+          "name": "South Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Tanzania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Togo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Tunisia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Uganda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Zambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Zimbabwe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        }
+      ],
+      "unitedStates": [
+        {
+          "name": "Alabama",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Alaska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Arizona",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Arkansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "California",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Colorado",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Connecticut",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Delaware",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Florida",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Georgia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Hawaii",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Idaho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Illinois",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Indiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Iowa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Kansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Kentucky",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Louisiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Maine",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Maryland",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Massachusetts",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Michigan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Minnesota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Mississippi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Missouri",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Montana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Nebraska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Nevada",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "New Hampshire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "New Jersey",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "New Mexico",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "New York",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "North Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "North Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Ohio",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Oklahoma",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Oregon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Pennsylvania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Rhode Island",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "South Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "South Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Tennessee",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Texas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Utah",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Vermont",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Washington",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "West Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Wisconsin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "Wyoming",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        },
+        {
+          "name": "District of Columbia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 11 issue."
+        }
+      ],
+      "federal": [
+        {
+          "name": "U.S. DOJ EOIR · notices and press releases",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "eoir-notices-index-2026-10-11"
+          ],
+          "note": "This index showed no October 11 qualifying item at review time; other EOIR pages were not surveyed."
+        },
+        {
+          "name": "U.S. Department of State · U.S. Visas News",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "dos-visa-news-2026-10-11"
+          ],
+          "note": "This index showed no October 11 qualifying item at review time; embassy pages were not surveyed."
+        },
+        {
+          "name": "USCIS newsroom",
+          "review": "not_checked",
+          "sourceIds": [],
+          "note": "Direct retrieval failed; no no-update conclusion."
+        },
+        {
+          "name": "South African Government · migration briefing",
+          "review": "official_source_checked",
+          "sourceIds": [
+            "za-imc-asylum-2026-10-11"
+          ],
+          "note": "The October 11 briefing describes a planned model and a pending court request."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "method": "Regional and federal source indexes were checked on October 10. The Commission statement does not count as a check of each African country; no U.S. state or DC source was individually checked. “Checked; no verified update” applies only to the named source area as of this review, not all possible developments.",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "sources": [
+        {
+          "id": "achpr-death-penalty-2026-10-10",
+          "title": "African Commission on Human and Peoples’ Rights · October 10 statement",
+          "url": "https://achpr.au.int/index.php/en/news/press-releases/2026-10-10/statement-african-commission-human-and-peoples-rights-occasion",
+          "primary": true,
+          "checked": "2026-10-10"
+        },
+        {
+          "id": "eoir-notices-index-2026-10-10",
+          "title": "U.S. DOJ EOIR · notices and press releases index",
+          "url": "https://www.justice.gov/eoir/notices-and-press-releases",
+          "primary": true,
+          "checked": "2026-10-10"
+        },
+        {
+          "id": "dos-visa-news-2026-10-10",
+          "title": "U.S. Department of State · U.S. Visas News index",
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news.html",
+          "primary": true,
+          "checked": "2026-10-10"
+        },
+        {
+          "id": "sa-statements-index-2026-10-10",
+          "title": "South African Government · media statements index",
+          "url": "https://www.gov.za/news/media-statements",
+          "primary": true,
+          "checked": "2026-10-10"
+        }
+      ],
+      "africa": [
+        {
+          "name": "Algeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Angola",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Benin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Botswana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Burkina Faso",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Burundi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Cabo Verde",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Cameroon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Central African Republic",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Chad",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Comoros",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Côte d’Ivoire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Djibouti",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Egypt",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Equatorial Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Eritrea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Eswatini",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Ethiopia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Gabon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "The Gambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Ghana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Guinea-Bissau",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Kenya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Lesotho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Liberia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Libya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Madagascar",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Malawi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Mali",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Mauritania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Mauritius",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Morocco",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Mozambique",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Namibia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Niger",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Nigeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Rwanda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "São Tomé and Príncipe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Senegal",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Seychelles",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Sierra Leone",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Somalia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "South Africa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "South Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Tanzania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Togo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Tunisia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Uganda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Zambia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Zimbabwe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        }
+      ],
+      "unitedStates": [
+        {
+          "name": "Alabama",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Alaska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Arizona",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Arkansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "California",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Colorado",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Connecticut",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Delaware",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Florida",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Georgia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Hawaii",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Idaho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Illinois",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Indiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Iowa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Kansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Kentucky",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Louisiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Maine",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Maryland",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Massachusetts",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Michigan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Minnesota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Mississippi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Missouri",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Montana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Nebraska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Nevada",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "New Hampshire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "New Jersey",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "New Mexico",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "New York",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "North Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "North Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Ohio",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Oklahoma",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Oregon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Pennsylvania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Rhode Island",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "South Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "South Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Tennessee",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Texas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Utah",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Vermont",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Washington",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "West Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Wisconsin",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "Wyoming",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        },
+        {
+          "name": "District of Columbia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual jurisdiction source checked for the October 10 issue."
+        }
+      ],
+      "federal": [
+        {
+          "name": "U.S. DOJ EOIR · notices and press releases",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "eoir-notices-index-2026-10-10"
+          ],
+          "note": "The official notices index showed no October 10 qualifying item at review time; other EOIR pages were not surveyed."
+        },
+        {
+          "name": "U.S. Department of State · U.S. Visas News",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "dos-visa-news-2026-10-10"
+          ],
+          "note": "The official visa-news index showed no October 10 qualifying item at review time; embassy pages were not surveyed."
+        },
+        {
+          "name": "USCIS newsroom",
+          "review": "not_checked",
+          "sourceIds": [],
+          "note": "Direct retrieval returned 403; no no-update conclusion."
+        },
+        {
+          "name": "African Commission on Human and Peoples’ Rights · regional",
+          "review": "official_source_checked",
+          "sourceIds": [
+            "achpr-death-penalty-2026-10-10"
+          ],
+          "note": "October 10 statement verified. This is a regional check, not 54 country checks."
+        },
+        {
+          "name": "South African Government · media statements",
+          "review": "checked_no_verified_update",
+          "sourceIds": [
+            "sa-statements-index-2026-10-10"
+          ],
+          "note": "The official index showed October 9 as its latest entry at review time; other South African sources were not surveyed."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "reviewedBy": "Codex · automated primary-source review, not legal review",
+      "method": "A reviewed regional or multistate source may name a jurisdiction without constituting an individual review of its own policy sources. No jurisdiction is labeled “no verified update” without such a review.",
+      "africa": [
+        {
+          "name": "Algeria",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Angola",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Benin",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Botswana",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Burkina Faso",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Burundi",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Cabo Verde",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Cameroon",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Central African Republic",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Chad",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Comoros",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Côte d’Ivoire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Djibouti",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Egypt",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Equatorial Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Eritrea",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Eswatini",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Ethiopia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Gabon",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "The Gambia",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Ghana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Guinea",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Guinea-Bissau",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Kenya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Lesotho",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Liberia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Libya",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Madagascar",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Malawi",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Mali",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Mauritania",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Mauritius",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Morocco",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Mozambique",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Namibia",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Niger",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Nigeria",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Rwanda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "São Tomé and Príncipe",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Senegal",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Seychelles",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Sierra Leone",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Somalia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "South Africa",
+          "review": "partial_official_source_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa",
+            "za-asylum-withdrawal"
+          ],
+          "note": "Home Affairs withdrawal notice checked; other national topics not checked."
+        },
+        {
+          "name": "South Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Sudan",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Tanzania",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Togo",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Tunisia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Uganda",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual country source checked for this issue."
+        },
+        {
+          "name": "Zambia",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        },
+        {
+          "name": "Zimbabwe",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ],
+          "note": "Named in U.S. regional visa-service notice; national policy sources not individually checked."
+        }
+      ],
+      "unitedStates": [
+        {
+          "name": "Alabama",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Alaska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Arizona",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Arkansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "California",
+          "review": "partial_official_source_checked",
+          "sourceIds": [
+            "ca-head-start-comment",
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "One Attorney General comment checked; other state topics not checked."
+        },
+        {
+          "name": "Colorado",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Connecticut",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Delaware",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Florida",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Georgia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Hawaii",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Idaho",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Illinois",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Indiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Iowa",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Kansas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Kentucky",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Louisiana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Maine",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Maryland",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Massachusetts",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Michigan",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Minnesota",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Mississippi",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Missouri",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Montana",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Nebraska",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Nevada",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "New Hampshire",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "New Jersey",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "New Mexico",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "New York",
+          "review": "partial_official_source_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "One Attorney General litigation notice checked; other state topics not checked."
+        },
+        {
+          "name": "North Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "North Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Ohio",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Oklahoma",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Oregon",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Pennsylvania",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Rhode Island",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "South Carolina",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "South Dakota",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Tennessee",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Texas",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Utah",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Vermont",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Washington",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "West Virginia",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "Wisconsin",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        },
+        {
+          "name": "Wyoming",
+          "review": "not_individually_checked",
+          "sourceIds": [],
+          "note": "No individual state or DC source checked for this issue."
+        },
+        {
+          "name": "District of Columbia",
+          "review": "not_individually_checked",
+          "sourceIds": [
+            "ny-public-charge-lawsuit"
+          ],
+          "note": "Named in New York Attorney General coalition notice; own state or DC sources not checked."
+        }
+      ],
+      "federal": [
+        {
+          "name": "U.S. Department of State · visa resource",
+          "review": "official_source_checked",
+          "sourceIds": [
+            "us-visas-reference"
+          ]
+        },
+        {
+          "name": "U.S. Department of State · Africa visa-service realignment",
+          "review": "official_source_checked",
+          "sourceIds": [
+            "us-visa-hubs-africa"
+          ]
+        },
+        {
+          "name": "USCIS forms and alerts",
+          "review": "not_checked",
+          "sourceIds": []
+        }
+      ],
+      "sources": [
+        {
+          "id": "us-visa-hubs-africa",
+          "title": "U.S. Department of State · Africa visa-service realignment",
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/realignment-of-us-visa-services-in-africa-to-regional-hubs.html",
+          "checked": "2026-10-09",
+          "primary": true
+        },
+        {
+          "id": "ca-head-start-comment",
+          "title": "California Department of Justice · Head Start standards comment",
+          "url": "https://www.oag.ca.gov/news/press-releases/attorney-general-bonta-co-leads-coalition-opposing-trump-administration%E2%80%99s-cruel",
+          "checked": "2026-10-09",
+          "primary": true
+        },
+        {
+          "id": "ny-public-charge-lawsuit",
+          "title": "New York Attorney General · public charge lawsuit",
+          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-leads-major-challenge-trump-administrations-attack",
+          "checked": "2026-10-09",
+          "primary": true
+        },
+        {
+          "id": "za-asylum-withdrawal",
+          "title": "South African Government · Home Affairs statement",
+          "url": "https://www.gov.za/news/media-statements/home-affairs-director-general-withdraws-asylum-directive-09-oct-2026",
+          "checked": "2026-10-09",
+          "primary": true
+        },
+        {
+          "id": "us-visas-reference",
+          "title": "U.S. Department of State · U.S. Visas",
+          "url": "https://travel.state.gov/content/travel/en/us-visas.html",
+          "checked": "2026-10-09",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "trackerHistory": {
+    "importedAt": "2026-10-12",
+    "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+    "scope": "Retrospective import of the supplied shared ChatGPT snapshot. These are records of prior automated briefs, not fresh news or an exhaustive jurisdiction scan. Claims, cited links and statuses in the original text have not all been independently reverified for this import. Use current dated editions and official sources for present status.",
+    "visualNote": "Original image references are retained as text only. Images are not loaded or treated as evidence because reuse rights and story-specific provenance were not established.",
+    "records": [
+      {
+        "id": "2026-10-08-visual",
+        "date": "2026-10-08",
+        "label": "Visual edition notes",
+        "url": "/tracker/2026-10-08-visual/",
+        "rawUrl": "/tracker/2026-10-08-visual.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      },
+      {
+        "id": "2026-10-08",
+        "date": "2026-10-08",
+        "label": "Special dated edition",
+        "url": "/tracker/2026-10-08/",
+        "rawUrl": "/tracker/2026-10-08.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      },
+      {
+        "id": "2026-10-07",
+        "date": "2026-10-07",
+        "label": "Daily brief",
+        "url": "/tracker/2026-10-07/",
+        "rawUrl": "/tracker/2026-10-07.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      },
+      {
+        "id": "2026-10-06-visual",
+        "date": "2026-10-06",
+        "label": "Visual edition",
+        "url": "/tracker/2026-10-06-visual/",
+        "rawUrl": "/tracker/2026-10-06-visual.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      },
+      {
+        "id": "2026-10-06",
+        "date": "2026-10-06",
+        "label": "Daily brief",
+        "url": "/tracker/2026-10-06/",
+        "rawUrl": "/tracker/2026-10-06.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      },
+      {
+        "id": "2026-10-05",
+        "date": "2026-10-05",
+        "label": "Daily brief",
+        "url": "/tracker/2026-10-05/",
+        "rawUrl": "/tracker/2026-10-05.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      },
+      {
+        "id": "2026-10-04",
+        "date": "2026-10-04",
+        "label": "October 1–4 coverage brief",
+        "url": "/tracker/2026-10-04/",
+        "rawUrl": "/tracker/2026-10-04.md",
+        "source": "https://chatgpt.com/share/6acd2252-d224-83e9-8499-a129465110e3",
+        "reviewedBy": "Historical automated tracker output; imported by Codex on 2026-10-12",
+        "verification": "Historical source record; not a newly verified issue"
+      }
+    ]
+  }
+}
